@@ -3,4 +3,6 @@
   "build": "tsc -b && vite build",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
+  "homepage": "https://berekethabtu1.github.io/berekethabtu13"
+
 }
