@@ -29,7 +29,7 @@ const Resume: React.FC = () => {
                     </a>{" "}
                     |
                     <a
-                        href="https://github.com/berekethabtu13"
+                        href="https://github.com/berekethabtu1"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
