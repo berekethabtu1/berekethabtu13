@@ -15,12 +15,7 @@ const Resume: React.FC = () => {
                     <img src={banner} alt="Banner" className="banner" />
 
                     {/* Animated AWS icons overlay */}
-                    <div className="banner-effects">
-                        <img src="/icons/security.svg" alt="Security" className="effect-icon security" />
-                        <img src="/icons/database.svg" alt="Database" className="effect-icon database" />
-                        <img src="/icons/compute.svg" alt="Compute" className="effect-icon compute" />
-                        <img src="/icons/python.svg" alt="Python" className="effect-icon python" />
-                    </div>
+                   
                 </div>
                 <div className="contact-line">
                     Chicago, IL | (773) 807-6443 |
